@@ -1,0 +1,26 @@
+{
+  "name": "audio-notes",
+  "version": "0.1.0",
+  "description": "Note frequencies for equal-tempered scale",
+  "keywords": [
+    "audio",
+    "notes",
+    "frequencies",
+    "note",
+    "frequency"
+  ],
+  "author": "Gaëtan Renaudeau <renaudeau.gaetan@gmail.com>",
+  "contributors": [],
+  "dependencies" : {
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.0"
+  },
+  "main": "src/audio-notes.js",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gre/audio-notes.git"
+  }
+}
