@@ -48,3 +48,13 @@ by MIDI value
 You can also access a note by index:
 
 `AudioNotes[57]` is the 57th notes of a midi keyboard, it is A4 .
+
+Examples
+===
+
+```javascript
+var melody;
+with (AudioNotes) {
+  melody = [ C4, C5, A4, E4, b3 ];
+}
+```
